@@ -62,6 +62,8 @@ p{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
+    margin-right: 50px;
+   
 }
 #full-stack{
     border-left: 7px solid;
